@@ -4,4 +4,4 @@ Use this platform to sharpenup your Software testing knowledge provided by http:
 
 Excersise 1 - Here Short requirement will be displayed.
 
-Build Link - https://wedeviop.github.io/Formone/Form.html(https://wedeviop.github.io/Formone/Form.html)
+Build Link - <a href="https://wedeviop.github.io/Formone/Form.html" title="https://wedeviop.github.io/Formone/Form.html">https://wedeviop.github.io/Formone/Form.html</a>
